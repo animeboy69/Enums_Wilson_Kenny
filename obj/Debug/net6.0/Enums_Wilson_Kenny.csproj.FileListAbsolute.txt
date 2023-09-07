@@ -1,0 +1,14 @@
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\bin\Debug\net6.0\Enums_Wilson_Kenny.exe
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\bin\Debug\net6.0\Enums_Wilson_Kenny.deps.json
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\bin\Debug\net6.0\Enums_Wilson_Kenny.runtimeconfig.json
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\bin\Debug\net6.0\Enums_Wilson_Kenny.dll
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\bin\Debug\net6.0\Enums_Wilson_Kenny.pdb
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\Enums_Wilson_Kenny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\Enums_Wilson_Kenny.AssemblyInfoInputs.cache
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\Enums_Wilson_Kenny.AssemblyInfo.cs
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\Enums_Wilson_Kenny.csproj.CoreCompileInputs.cache
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\Enums_Wilson_Kenny.dll
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\refint\Enums_Wilson_Kenny.dll
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\Enums_Wilson_Kenny.pdb
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\Enums_Wilson_Kenny.genruntimeconfig.cache
+C:\Users\KennyWilson\source\repos\Enums_Wilson_Kenny\obj\Debug\net6.0\ref\Enums_Wilson_Kenny.dll

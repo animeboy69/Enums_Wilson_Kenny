@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Enums_Wilson_Kenny/1.0.0": {
+        "runtime": {
+          "Enums_Wilson_Kenny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enums_Wilson_Kenny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
